@@ -1,4 +1,4 @@
-# whtsap
+# whatsApp UI Clone Static
 
 A new Flutter project.
 
